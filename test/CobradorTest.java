@@ -12,6 +12,7 @@ public class CobradorTest {
            
         cobrador.addDeudor(deudor1);
         cobrador.addDeudor(deudor2);
+        System.out.println("este es un nuevo mensaje");
     }
     
     public static void printDeudor(Deudor deudor) {
